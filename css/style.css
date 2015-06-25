@@ -425,3 +425,64 @@ td,
 th {
   padding: 0;
 }
+
+body {
+    background-color: LightGray;
+}
+div {
+    border: 1px solid Chocolate;
+}
+
+.top-navigation {
+    background-color: #fff;
+}
+
+.top-navigation > .content {
+    width: 970px;
+    height: 70px;
+    margin: 0 auto;
+    padding-left:1rem;
+}
+
+
+
+
+
+
+/*
+.top-navigation > .content
+{
+  height: 4.375em;
+  width:60rem;
+}
+
+.top-navigation ul
+{
+  margin: 1.7em 0 0 0;
+  padding:0 0;
+  float:right;
+  list-style-type: none;
+}
+
+.top-navigation ul>li
+{
+  display: inline-block;
+  margin-left: 1em;
+}
+
+.top-navigation ul>li
+{
+  color:gray;
+  text-decoration: none;
+}
+
+.top-navigation li:hover
+{
+  color:black;
+}
+
+.top-navigation ul .active 
+{
+  color:black;
+}
+*/
