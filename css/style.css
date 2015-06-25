@@ -541,44 +541,33 @@ div {
   border-color: #cf3d0e;
 }
 
-
-
-
-
-/*
-.top-navigation > .content
-{
-  height: 4.375em;
-  width:60rem;
+.cases .content{
+  height: 35rem;
+  font-family: 'Roboto', sans-serif;
+  color: #4c5058;
+  -webkit-font-smoothing: antialiased;
 }
 
-.top-navigation ul
+.cases h2
 {
-  margin: 1.7em 0 0 0;
-  padding:0 0;
-  float:right;
+  font-size: 2.75rem;
+  margin: 1.625rem 0 3.125rem;
+  font-weight: 300;
+}
+
+.cases
+{
+  background-color: #fff;
+  text-align: center;
+}
+
+.devices
+{
   list-style-type: none;
 }
 
-.top-navigation ul>li
+.devices li
 {
   display: inline-block;
-  margin-left: 1em;
+  padding-right: 5em;
 }
-
-.top-navigation ul>li
-{
-  color:gray;
-  text-decoration: none;
-}
-
-.top-navigation li:hover
-{
-  color:black;
-}
-
-.top-navigation ul .active 
-{
-  color:black;
-}
-*/
