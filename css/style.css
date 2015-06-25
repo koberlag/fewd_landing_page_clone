@@ -457,7 +457,7 @@ div {
     font-family: 'Roboto', sans-serif;
     color: #838994;
     font-size: 16px;
-    margin-top: 25px;
+    margin-top: 1.7rem;
     -webkit-font-smoothing: antialiased;
 }
 
@@ -482,7 +482,12 @@ div {
     color: #333333;
 }
 
-
+.introducing
+{
+  height:41.5rem;
+  background-image: url("../images/first-background.jpg");
+  background-position: center bottom;
+}
 
 
 
