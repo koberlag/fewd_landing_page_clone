@@ -576,11 +576,13 @@ div {
 {
   background-color: #fff;
   height:20rem;
+  text-align: center;
 }
 
 .social .icons 
 {
  list-style-type: none;
+ padding:0;
 }
 
 .social .icons li
@@ -592,6 +594,33 @@ div {
   margin: 1.25rem 5px;
   border: 1px solid #eaebec;
   padding: 0.625rem 0;
-  text-align: center;
+}
+
+.social hr
+{
+  border: 0;
+  border-top: 1px solid #eaebec;
+  margin: 1.313rem 0;
+}
+
+.twitter
+{
+  color:#55acee;
+}
+
+.facebook
+{
+  color:#4c66a4;
+}
+
+.instagram
+{
+  color:#3f729b;
+}
+
+.social .copy {
+  font-size: 0.9rem;
+  font-weight: 300;
+  color: #838994;
 }
 
