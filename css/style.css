@@ -572,4 +572,26 @@ div {
     box-sizing: border-box;
 }
 
+.social
+{
+  background-color: #fff;
+  height:20rem;
+}
+
+.social .icons 
+{
+ list-style-type: none;
+}
+
+.social .icons li
+{
+  border-radius: 1.25rem;
+  width: 2.5rem;
+  height: 2.5rem;
+  display: inline-block;
+  margin: 1.25rem 5px;
+  border: 1px solid #eaebec;
+  padding: 0.625rem 0;
+  text-align: center;
+}
 
